@@ -1,8 +1,5 @@
 # ASL
-ASL Archivos
-
 Archivo de Experiencia: ASL Recognition with Deep Learning.docx
-
 Carpeta: ASL Recognition with Deep Learning 
  archivos
  -notebook.ipynb
